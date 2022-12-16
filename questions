@@ -1,0 +1,16 @@
+1.	Write a Pandas program to create and display a one-dimensional array-like object containing an array of data using Pandas module.
+2.	Write a pandas program to convert a pandas module series to python list.
+3.	Write a pandas program to add, subtract, multiple and divide two pandas 
+4.	series
+5.	Write a pandas program to add, subtract, multiple and divide two pandas 
+6.	series
+3.	Write a pandas program to add, subtract, multiple and divide two pandas series.
+4.	Write a Pandas program to convert all the string values to upper, lower cases in a given pandas series. Also find the length of the string values.
+5.	Write a Pandas program to remove whitespaces, left sided whitespaces and right sided whitespaces of the string values of a given pandas series
+6.	Write a Pandas program to create and display a DataFrame consist of student name, father name , mobile number as columns and register number as index.
+7.	Write a Pandas program to get list from DataFrame column headers.
+8.	Write a Pandas program to change the name of the student.
+9.	Write a Pandas program to insert a new column “grade” in existing DataFrame.
+10.	Write a Pandas program to create and display a DataFrame from a specified dictionary data which has the index labels
+
+
